@@ -1,0 +1,13 @@
+@charset "utf-8";
+h1{
+    color: red;
+    font-size: 50px;
+}
+p{
+    color:goldenrod;
+    font-size: 24px;
+
+}
+body{
+    background-color: rgba(139, 163, 61, 0.212);
+}
